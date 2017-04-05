@@ -1,0 +1,10 @@
+data/dev/*
+data/extras/*
+data/large/*
+data/lm/*
+data/medium/*
+data/project.md
+data/seg/*
+data/small/*
+data/test/*
+data/toy/*
